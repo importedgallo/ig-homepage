@@ -15,7 +15,6 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           <a>importedgallo</a> homepage
         </h1>
-
         <p className={styles.description}>
           A site by {' '}
           <code className={styles.code}>Andre Mongard</code>
